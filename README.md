@@ -1,1 +1,1 @@
-# CodeAlpha_MusicPlayer
+A simple music player built using HTML, CSS, and JavaScript, allowing users to play, pause, and enjoy their favorite music tracks. The player features a modern design with controls for play, pause, skip, and volume adjustments.
